@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dribbble J Viewer</string>
+    <string name="dialog_loading_shots">Скоро будут готовы!</string>
+    <string name="dialog_loading_title">Загрузка&#8230;</string>
+    <string name="text_check_again">Проверить снова</string>
+    <string name="text_error_loading_comments">При загрузке комментариев произошла ошибка</string>
+    <string name="text_error_loading_shots">Похоже, что у вас нет интернет соединения. Пожалуйста, попробуйте позже&#8230;</string>
+    <string name="text_no_recent_comments">Нет комментариев&#8230;</string>
+    <string name="text_no_shots">Похоже, что сейчас нет работ для отображения. Пожалуйста, попробуйте позже&#8230;</string>
+    <string name="text_recent_comments">Комментарии:</string>
+    <string name="text_reload">Перезагрузить</string>
+    <string name="title_no_shots">Нет работ</string>
+    <string name="title_oops">Упс</string>
+    <string name="text_no_shot_description">Для этой работы нет описания&#8230;</string>
+</resources>

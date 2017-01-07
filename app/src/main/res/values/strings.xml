@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Dribbble J Viewer</string>
+
+    <string name="title_oops">Oops</string>
+    <string name="title_no_shots">No shots</string>
+    <string name="text_reload">Reload</string>
+    <string name="text_check_again">Check Again</string>
+    <string name="text_recent_comments">Recent Comments:</string>
+    <string name="text_no_recent_comments">No recent Comments&#8230;</string>
+    <string name="text_error_loading_comments">There was an error loading the comments</string>
+
+    <string name="text_no_shot_description">There is no description for this shot&#8230;</string>
+
+    <string name="text_error_loading_shots">It\'s seems that you do not have internet connection. Please try again later&#8230;</string>
+    <string name="text_no_shots">Looks like there\'s no shots to display here. Try checking again soon&#8230;</string>
+
+    <string name="dialog_loading_title">Loading&#8230;</string>
+    <string name="dialog_loading_shots">They\'ll be ready soon!</string>
+</resources>

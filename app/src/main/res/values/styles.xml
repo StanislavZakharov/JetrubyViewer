@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.ShotActivity" parent="AppTheme.NoActionBar">
+    </style>
+
+    <style name="ShotContainerStyle">
+
+    </style>
+
+    <style name="RecentCommentsStyle">
+        <item name="android:background">@color/colorAccent</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="ShotHeaderStyle">
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+
+    <style name="ArticleContentViewStyle">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginLeft">@dimen/article_content_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/article_content_horizontal_margin</item>
+    </style>
+
+</resources>
