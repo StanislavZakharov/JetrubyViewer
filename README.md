@@ -1,5 +1,7 @@
 # JetrubyViewer
 
+App has been developed as a task for Android developer position at JetRuby Agency.
+
 Application that allows to watch most popular shots from Dribbble.
 
 ## How it works
